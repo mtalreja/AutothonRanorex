@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.2"
+id="f373d1eb-c6fe-4d4b-a644-db5b18217dbf"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Workshop"/>
+	<variables/>
+	<recorditems/>
+	<repository
+	name="WorkshopRepository"
+	id="a5ae728d-1fb7-4e6d-96e3-f52c0d63318e"
+	rxversion="6.2"
+	relativepath="WorkshopRepository.rxrep">
+		<codegen
+		classname="WorkshopRepository"
+		namespace="Workshop"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="5829c4b0-b8a5-4e1a-b8e4-4b5a6a322055"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>

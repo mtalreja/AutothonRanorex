@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="WorkshopRepository"
+id="a5ae728d-1fb7-4e6d-96e3-f52c0d63318e"
+rxversion="6.2">
+  <codegen
+  classname="WorkshopRepository"
+  namespace="Workshop"/>
+  <rootfolder
+  name="Root"
+  id="5829c4b0-b8a5-4e1a-b8e4-4b5a6a322055"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
